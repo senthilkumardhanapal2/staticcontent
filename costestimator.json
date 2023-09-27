@@ -1,4 +1,5 @@
 ["https://integtenant2.healthtranzformdev.com/tzf/costestimator/uicostestimator/",
 "https://integtenant2.healthtranzformdev.com/tzf/costestimator/uicostestimator/auth.html",
 "https://integtenant2.healthtranzformdev.com/tzf/costestimator/uicostestimator/silent-renew.html",
-"https://integtenant.b2clogin.com/integtenant.onmicrosoft.com/oauth2/authresp"]
+"https://integtenant.b2clogin.com/integtenant.onmicrosoft.com/oauth2/authresp",
+"https%3a%2f%2fintegtenant.b2clogin.com%2fintegtenant.onmicrosoft.com%2foauth2%2fauthresp"]
